@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">Loay's profile ; you're in right place ! 🤖<br>informatics engineering student 🧑‍💻<br>having a magic wond to put the magical touch at web developing 🪄</h3>
+<p align="left">Loay's profile ; you're in right place ! 🤖<br>informatics engineering student 🧑‍💻<br>having a magic wond to put the magical touch at web developing 🪄</p>
 
 ###
 

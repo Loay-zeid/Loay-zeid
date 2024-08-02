@@ -72,7 +72,7 @@
   </a>
 
   <!-- Instagram Badge -->
-  <a href="https://www.instagram.com/loay_ze/" target="_blank" title="Follow me on Instagram">
+  <a href="https://www.instagram.com/loay_ze?igsh=MWxidTBpZ2tycGJkbA==" target="_blank" title="Follow me on Instagram">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram logo" />
   </a>
 

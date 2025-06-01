@@ -1,4 +1,4 @@
-who said flekz ????? not like this ,, to show it in most used langu and add it beside java and javascript  react html ,,,,,,,,,, , give me the full readme code  in this <h2 align="left">HELLO WORLD ! 👨‍🎤</h2>
+<h2 align="left">HELLO WORLD ! 👨‍🎤</h2>
 
 ###
 
@@ -8,7 +8,7 @@ who said flekz ????? not like this ,, to show it in most used langu and add it b
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Loay-zeid&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Loay-zeid&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Loay-zeid&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -32,6 +32,8 @@ who said flekz ????? not like this ,, to show it in most used langu and add it b
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" alt="java logo"  />
   <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python logo"  />
+  <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="35" alt="sqlite logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="35" alt="matlab logo"  />
@@ -39,11 +41,9 @@ who said flekz ????? not like this ,, to show it in most used langu and add it b
 
 ###
 
-
 <!-- <br clear="both">
 <img src="https://raw.githubusercontent.com/Loay-zeid/Loay-zeid/output/snake.svg" alt="Snake animation" />
 -->
-
 
 ###
 
@@ -83,6 +83,5 @@ who said flekz ????? not like this ,, to show it in most used langu and add it b
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Facebook logo" />
   </a>
 </div>
-
 
 ###

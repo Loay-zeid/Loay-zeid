@@ -1,29 +1,66 @@
-<h1 align="center">Hey 👋 I'm Loay</h1>
+<h1 align="center">Hey 👋 I'm Loay Zeid</h1>
 
-<h3 align="center">Informatics Engineering Student | Frontend Developer</h3>
-
----
+<h3 align="center">Full Stack Web Developer | Informatics Engineering Student</h3>
 
 <p align="center">
-Passionate about building modern web applications with clean UI, strong logic, and scalable architecture.
+Building modern web apps with clean UI, strong logic, and real-world impact 🚀
 </p>
 
 ---
 
-## 🚀 About Me
+## 🧠 About Me
 
 - 💻 Frontend Developer (React / TypeScript)
-- 🎯 Focused on building real-world full-stack systems
-- 🧠 Interested in system design & problem solving
-- ⚡ Always learning and improving
+- 🏗️ Building full-stack systems (PERN stack)
+- 🎯 Focused on scalable architecture & clean code
+- ⚡ Passionate about solving real-world problems
+- 🌲 Inspired by simplicity and nature
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
   <img src="images/userstats.svg" width="800"/>
 </div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Loay-zeid&theme=react-dark&hide_border=true"/>
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+### 🏫 Classroom Management System
+> Full-stack system for managing students, departments, and academic workflows
+
+- 🔹 Admin dashboard with analytics
+- 🔹 Authentication & role-based access
+- 🔹 REST API with Node.js & Express
+- 🔹 PostgreSQL + Drizzle ORM
+
+---
+
+### 🔐 LuckyCoin Cipher
+> Custom symmetric encryption algorithm (University Project)
+
+- 🔹 Designed encryption logic from scratch
+- 🔹 Focus on performance and security concepts
+- 🔹 Implemented using Java
+
+---
+
+### 🧠 IPU Programming Language
+> Custom programming language built with Java
+
+- 🔹 Lexer + Parser + Symbol Table
+- 🔹 Expression evaluation support
+- 🔹 Compiler design fundamentals
 
 ---
 
@@ -36,14 +73,15 @@ Passionate about building modern web applications with clean UI, strong logic, a
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="35"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="35"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="35"/>
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="35"/>
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="35"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="35"/>
 
 </div>
 
@@ -73,4 +111,4 @@ Passionate about building modern web applications with clean UI, strong logic, a
 
 ---
 
-⭐ *“Code is not just solving problems — it's building experiences.”*
+⭐ *“I don’t just write code — I build systems.”*

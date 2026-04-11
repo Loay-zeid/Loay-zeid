@@ -10,7 +10,6 @@ Building modern web apps with clean UI, strong logic, and real-world impact 🚀
 
 ## 🧠 About Me
 
-- 💻 Frontend Developer (React / TypeScript)
 - 🏗️ Building full-stack systems (PERN stack)
 - 🎯 Focused on scalable architecture & clean code
 - ⚡ Passionate about solving real-world problems

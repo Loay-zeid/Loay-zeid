@@ -1,86 +1,76 @@
-<h2 align="left">HELLO WORLD ! 👨‍🎤</h2>
+<h1 align="center">Hey 👋 I'm Loay</h1>
 
-###
+<h3 align="center">Informatics Engineering Student | Frontend Developer</h3>
 
-<p align="left">Loay's profile ; you're in right place ! 🤖<br>informatics engineering student 🧑‍💻<br>having a magic wond to put the magical touch at web developing 🪄</p>
+---
 
-###
+<p align="center">
+Passionate about building modern web applications with clean UI, strong logic, and scalable architecture.
+</p>
+
+---
+
+## 🚀 About Me
+
+- 💻 Frontend Developer (React / TypeScript)
+- 🎯 Focused on building real-world full-stack systems
+- 🧠 Interested in system design & problem solving
+- ⚡ Always learning and improving
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="images/userstats.svg" height="200" alt="stats graph"/>
+  <img src="images/userstats.svg" width="800"/>
 </div>
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" alt="typescript logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="react logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html5 logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="css3 logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="35" alt="scss logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="35" alt="bootstrap logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="35" alt="cplusplus logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" alt="java logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="35" alt="sqlite logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="35" alt="matlab logo"  />
+## 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="35"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="35"/>
+
 </div>
 
-###
+---
 
-<!-- <br clear="both">
-<img src="https://raw.githubusercontent.com/Loay-zeid/Loay-zeid/output/snake.svg" alt="Snake animation" />
--->
+## 🌐 Connect With Me
 
-###
+<div align="center">
 
-<div align="left">
-  <!-- LinkedIn Badge -->
-  <a href="https://www.linkedin.com/in/loay-zeid-48b53a281/" target="_blank" title="Connect with me on LinkedIn">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo" />
-  </a>
+<a href="https://www.linkedin.com/in/loay-zeid-48b53a281/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-  <!-- Gmail Badge -->
-  <a href="mailto:loayze007@gmail.com" target="_blank" title="Send me an email via Gmail">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail logo" />
-  </a>
+<a href="mailto:loayze007@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-  <!-- Outlook Badge -->
-  <a href="mailto:loayzeid@outlook.com" target="_blank" title="Send me an email via Outlook">
-    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Outlook logo" />
-  </a>
+<a href="https://t.me/loay_ze">
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+</a>
 
-  <!-- Telegram Badge -->
-  <a href="https://t.me/loay_ze" target="_blank" title="Chat with me on Telegram">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Telegram logo" />
-  </a>
+<a href="https://medium.com/@loayze007">
+  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
+</a>
 
-  <!-- Medium Badge -->
-  <a href="https://medium.com/@loayze007" target="_blank" title="Read my articles on Medium">
-    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Medium logo" />
-  </a>
-
-  <!-- Instagram Badge -->
-  <a href="https://www.instagram.com/loay_ze?igsh=MWxidTBpZ2tycGJkbA==" target="_blank" title="Follow me on Instagram">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram logo" />
-  </a>
-
-  <!-- Facebook Badge -->
-  <a href="https://www.facebook.com/loay.ze?mibextid=ZbWKwL" target="_blank" title="Friend me on Facebook">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Facebook logo" />
-  </a>
 </div>
+
+---
+
+⭐ *“Code is not just solving problems — it's building experiences.”*

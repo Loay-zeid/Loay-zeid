@@ -34,35 +34,6 @@ Building modern web apps with clean UI, strong logic, and real-world impact 🚀
 
 ---
 
-## 🚀 Featured Projects
-
-### 🏫 Classroom Management System
-> Full-stack system for managing students, departments, and academic workflows
-
-- 🔹 Admin dashboard with analytics
-- 🔹 Authentication & role-based access
-- 🔹 REST API with Node.js & Express
-- 🔹 PostgreSQL + Drizzle ORM
-
----
-
-### 🔐 LuckyCoin Cipher
-> Custom symmetric encryption algorithm (University Project)
-
-- 🔹 Designed encryption logic from scratch
-- 🔹 Focus on performance and security concepts
-- 🔹 Implemented using Java
-
----
-
-### 🧠 IPU Programming Language
-> Custom programming language built with Java
-
-- 🔹 Lexer + Parser + Symbol Table
-- 🔹 Expression evaluation support
-- 🔹 Compiler design fundamentals
-
----
 
 ## 🛠️ Tech Stack
 

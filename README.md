@@ -70,6 +70,10 @@ Building modern web apps with clean UI, strong logic, and real-world impact 🚀
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
+<a href="mailto:loayzeid@outlook.com">
+  <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
+</a>
+
 <a href="https://t.me/loay_ze">
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
@@ -79,7 +83,6 @@ Building modern web apps with clean UI, strong logic, and real-world impact 🚀
 </a>
 
 </div>
-
 ---
 
 ⭐ *“I don’t just write code — I build systems.”*

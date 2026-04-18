@@ -13,7 +13,7 @@ Building modern web apps with clean UI, strong logic, and real-world impact 🚀
 - 🏗️ Building full-stack systems (PERN stack)
 - 🎯 Focused on scalable architecture & clean code
 - ⚡ Passionate about solving real-world problems
-- 🌲 Inspired by simplicity and nature
+
 
 ---
 

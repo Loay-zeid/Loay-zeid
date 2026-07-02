@@ -1,6 +1,6 @@
 <h1 align="center">Hey 👋 I'm Loay Zeid</h1>
 
-<h3 align="center">Full Stack Web Developer | Informatics Engineering Student</h3>
+<h3 align="center">Full Stack Web Developer | Informatics Engineer </h3>
 
 <p align="center">
 Building modern web apps with clean UI, strong logic, and real-world impact 🚀
